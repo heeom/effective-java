@@ -1,4 +1,4 @@
-package ch11;
+package ch11.item78;
 
 public class VisibilityExample {
     private static boolean flag = false;
